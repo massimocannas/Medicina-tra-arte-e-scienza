@@ -33,7 +33,7 @@ Su alcuni limiti strutturali dei clinical trials:
 iii) 
 Sull'inadeguatezza dell'espressione IA e il connesso rischio etico: 
 
-- Ivo De Gennaro, *nullo-animi-labore-una-nota-sulluso-responsabile-dellintelligenza-artificiale*  [eudia, aprile 2026](https://www.eudia.org/saggio-nullo-animi-labore-una-nota-sulluso-responsabile-dellintelligenza-artificiale/)
+- Ivo De Gennaro, *nullo-animi-labore-una-nota-sulluso-responsabile-dellintelligenza-artificiale*  [eudia 2026](https://www.eudia.org/saggio-nullo-animi-labore-una-nota-sulluso-responsabile-dellintelligenza-artificiale/)
 
 
 
