@@ -21,6 +21,7 @@ Una selezione di testi di approfondimento sui tre temi toccati nel seminario:
 
 i)
 Sulla specificità della tecne medica e la sua irriducibilità a mera meccanica:
+
 H.G. Gadamer, Apologia dell'arte medica. In: Dove si nasconde la salute, Vittorio Cortina Editore, 1994.
 
 ii) 
