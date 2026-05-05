@@ -20,4 +20,4 @@ Letture consigliate (tba)
 
 
 
-Nella cartella del Team sono disponibili alcuni dei testi discussi durante il seminario.
+Nella cartella del Team sono disponibili alcuni dei testi discussi durante il seminario. Codice team: czgz3t7 (studenti unica)
