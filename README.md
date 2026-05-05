@@ -14,9 +14,18 @@ ii) La scienza moderna: teoria ed esperimento. I clinical trials.
 
 iii) L'IA e la medicina. 
 
+<!--
+## 📚 Letture
+
+Una selezione di testi di approfondimento sui temi affrontati nel seminario (AI, responsabilità, medicina e tecnica).
+
+- Ivo De Gennaro, *AI e intelligenza: la responsabilità*  
+  👉 [Leggi l’articolo](https://www.eudia.org/saggio-nullo-animi-labore-una-nota-sulluso-responsabile-dellintelligenza-artificiale/)
+-->
 
 
-Letture consigliate (tba)
+
+Letture consigliate (prossimamente)
 
 
 
