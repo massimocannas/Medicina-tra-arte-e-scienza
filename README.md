@@ -15,7 +15,7 @@ ii) La scienza moderna: teoria ed esperimento. I clinical trials.
 iii) L'IA e la medicina. 
 
 
-## 📚 Letture
+# Letture
 
 Una selezione di testi di approfondimento sui tre temi toccati nel seminario:
 
