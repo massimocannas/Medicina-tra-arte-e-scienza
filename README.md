@@ -26,17 +26,14 @@ H.G. Gadamer, Apologia dell'arte medica. In: Dove si nasconde la salute, Vittori
 
 ii) 
 Su alcuni limiti strutturali dei clinical trials:
-- Rothwell P.M., *External validity of randomised controlled trials: to whom do the results of this trial apply?*  
-  👉 [Lancet 2005](https://pubmed.ncbi.nlm.nih.gov/15639683/)
+- Rothwell P.M., *External validity of randomised controlled trials: to whom do the results of this trial apply?*  [Lancet 2005](https://pubmed.ncbi.nlm.nih.gov/15639683/)
   
-  - Van Spall H.G.C., Toren A., Kiss A., Fowler R.A., *Eligibility criteria of randomized controlled trials published in high-impact general medical journals: a systematic sampling review*  
-  👉 [JAMA 2007](https://pubmed.ncbi.nlm.nih.gov/17374817/)
+  - Van Spall H.G.C., Toren A., Kiss A., Fowler R.A., *Eligibility criteria of randomized controlled trials published in high-impact general medical journals: a systematic sampling review*  [JAMA 2007](https://pubmed.ncbi.nlm.nih.gov/17374817/)
 
 iii) 
 Sull'inadeguatezza dell'espressione IA e il connesso rischio etico: 
 
-- Ivo De Gennaro, *nullo-animi-labore-una-nota-sulluso-responsabile-dellintelligenza-artificiale*  
-  👉 [eudia, aprile 2026](https://www.eudia.org/saggio-nullo-animi-labore-una-nota-sulluso-responsabile-dellintelligenza-artificiale/)
+- Ivo De Gennaro, *nullo-animi-labore-una-nota-sulluso-responsabile-dellintelligenza-artificiale*  [eudia, aprile 2026](https://www.eudia.org/saggio-nullo-animi-labore-una-nota-sulluso-responsabile-dellintelligenza-artificiale/)
 
 
 
