@@ -14,27 +14,30 @@ ii) La scienza moderna: teoria ed esperimento. I clinical trials.
 
 iii) L'IA e la medicina. 
 
-
-# Letture
+#  Letture
 
 Una selezione di testi di approfondimento sui tre temi toccati nel seminario:
 
-i)
-Sulla specificità della tecne medica e la sua irriducibilità a mera meccanica:
+### I. La téchne medica
+*Sulla specificità della téchne medica e la sua irriducibilità a mera meccanica:*
 
-H.G. Gadamer, Apologia dell'arte medica. In: Dove si nasconde la salute, Vittorio Cortina Editore, 1994.
+- H.G. Gadamer, *Apologia dell'arte medica*. In: *Dove si nasconde la salute*, Vittorio Cortina Editore, 1994.
 
-ii) 
-Su alcuni limiti strutturali dei clinical trials:
-- Rothwell P.M., *External validity of randomised controlled trials: to whom do the results of this trial apply?*  [Lancet 2005](https://pubmed.ncbi.nlm.nih.gov/15639683/)
-  
-  - Van Spall H.G.C., Toren A., Kiss A., Fowler R.A., *Eligibility criteria of randomized controlled trials published in high-impact general medical journals: a systematic sampling review*  [JAMA 2007](https://pubmed.ncbi.nlm.nih.gov/17374817/)
+---
 
-iii) 
-Sull'inadeguatezza dell'espressione IA e il connesso rischio etico: 
+### II. Clinical trials
+*Su alcuni limiti strutturali dei clinical trials:*
 
-- Ivo De Gennaro, *nullo-animi-labore-una-nota-sulluso-responsabile-dellintelligenza-artificiale*  [eudia 2026](https://www.eudia.org/saggio-nullo-animi-labore-una-nota-sulluso-responsabile-dellintelligenza-artificiale/)
+- Rothwell P.M., *External validity of randomised controlled trials: to whom do the results of this trial apply?* [Lancet 2005](https://pubmed.ncbi.nlm.nih.gov/15639683/)
 
+- Van Spall H.G.C., Toren A., Kiss A., Fowler R.A., *Eligibility criteria of randomized controlled trials published in high-impact general medical journals: a systematic sampling review*  
+  👉 [JAMA 2007](https://pubmed.ncbi.nlm.nih.gov/17374817/)
 
+---
 
+### III. AI e responsabilità
+*Sull'inadeguatezza dell'espressione IA e il connesso rischio etico:*
+
+- Ivo De Gennaro, *Nullo animi labore. Una nota sull’uso responsabile dell’intelligenza artificiale*  
+  👉 [eudia 2026](https://www.eudia.org/saggio-nullo-animi-labore-una-nota-sulluso-responsabile-dellintelligenza-artificiale/)
 Alcuni dei testi sono disponibili nella cartella del Team omonimo. Codice team: czgz3t7 (studenti Univ. di Cagliari)
