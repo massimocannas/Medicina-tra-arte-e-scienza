@@ -36,7 +36,7 @@ Una selezione di testi di approfondimento sui tre temi toccati nel seminario:
 
 ---
 
-### III. AI e responsabilità
+### III. IA e responsabilità
 *Sull'inadeguatezza dell'espressione IA e il conseguente rischio etico:*
 
 - Ivo De Gennaro, *Nullo animi labore. Una nota sull’uso responsabile dell’intelligenza artificiale*  
