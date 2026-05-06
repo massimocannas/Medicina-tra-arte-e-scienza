@@ -19,7 +19,7 @@ iii) L'IA e la medicina.
 Una selezione di testi di approfondimento sui tre temi toccati nel seminario:
 
 ### I. La téchne medica
-*Sulla specificità della téchne medica e la sua irriducibilità a mera meccanica:*
+*Sulla specificità della tecne medica e la sua irriducibilità a mera meccanica:*
 
 - H.G. Gadamer, *Apologia dell'arte medica*. In: *Dove si nasconde la salute*, Vittorio Cortina Editore, 1994.
 
@@ -37,7 +37,7 @@ Una selezione di testi di approfondimento sui tre temi toccati nel seminario:
 ---
 
 ### III. AI e responsabilità
-*Sull'inadeguatezza dell'espressione IA e il connesso rischio etico:*
+*Sull'inadeguatezza dell'espressione IA e il conseguente rischio etico:*
 
 - Ivo De Gennaro, *Nullo animi labore. Una nota sull’uso responsabile dell’intelligenza artificiale*  
    [eudia 2026](https://www.eudia.org/saggio-nullo-animi-labore-una-nota-sulluso-responsabile-dellintelligenza-artificiale/)
