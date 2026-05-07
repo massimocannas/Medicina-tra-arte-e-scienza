@@ -45,7 +45,7 @@ Una selezione di testi di approfondimento sui tre temi toccati nel seminario:
 ### III. IA e responsabilità
 *Sull'insussistenza dell'espressione "intelligenza artificiale" e il conseguente rischio etico:*
 
-- Ivo De Gennaro, *Nullo animi labore. Una nota sull’uso responsabile dell’intelligenza artificiale*  
+- Ivo De Gennaro, *Nullo animi labore. Una nota sull’uso responsabile dell’intelligenza artificiale.*  
    [eudia 2026](https://www.eudia.org/saggio-nullo-animi-labore-una-nota-sulluso-responsabile-dellintelligenza-artificiale/)
   
 Alcuni dei testi sono disponibili nella cartella del Team omonimo. Codice team: czgz3t7 (studenti Univ. di Cagliari)
