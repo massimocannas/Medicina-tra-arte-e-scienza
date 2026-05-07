@@ -19,7 +19,7 @@ iii) L'IA e la medicina.
 Una selezione di testi di approfondimento sui tre temi toccati nel seminario:
 
 ### I. La téchne medica
-* Per un'intesa del senso della tecne greca e moderna si veda il seguente volume (in particolare la sezione 5.1):*
+*Per un'intesa del senso della tecne greca e moderna si veda il seguente volume (in particolare la sezione 5.1):*
 
 - Borghi M., De Gennaro I, Zaccaria G *Science Under the Yoke of Value*.
   [Routledge 2026](https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003134497/science-yoke-value-maurizio-borghi-ivo-de-gennaro-gino-zaccaria)
