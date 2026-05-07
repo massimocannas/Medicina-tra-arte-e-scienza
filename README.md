@@ -24,7 +24,7 @@ Una selezione di testi di approfondimento sui tre temi toccati nel seminario:
 - Borghi M., De Gennaro I, Zaccaria G *Science Under the Yoke of Value*.
   [Routledge 2026](https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003134497/science-yoke-value-maurizio-borghi-ivo-de-gennaro-gino-zaccaria)
 
-* 
+
 *Sulla specificità della tecne medica e la sua irriducibilità a mera meccanica:*
 
 - H.G. Gadamer, *Apologia dell'arte medica*. In: *Dove si nasconde la salute*, Vittorio Cortina Editore, 1994.
