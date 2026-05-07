@@ -1,5 +1,5 @@
 # Medicina-tra-arte-e-scienza
-(un seminario in tre lezioni)
+(Un seminario in tre lezioni)
 
 Il seminario si propone, in primis, di comprendere la specificità della tecne medica rispetto alle altre arti nel mondo greco.  
 Viene quindi discussa la moderna idea di scienza e la tecnicità corrispondente. Manifestazione notevole di tale tecnicità è l’uso della statistica in medicina, dai clinical trials fino alle più recenti tecniche di intelligenza artificiale.
