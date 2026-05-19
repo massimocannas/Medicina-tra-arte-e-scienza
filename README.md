@@ -42,13 +42,13 @@ Una selezione di testi di approfondimento sui tre temi toccati nel seminario:
 
 ---
 
-### III. IA e responsabilità
+### III. IA in medicina, applicazioni e responsabilità
 
 *Sull'uso dell'IA nei clinical trials:*
 - Badani, A., de Moraes, F.Y., Vollmuth, P. et al. *AI and innovation in clinical trials*
 [digital medicine 2025](https://www.nature.com/articles/s41746-025-02048-5)
 
-*Sull'insussistenza dell'espressione "intelligenza artificiale" e il conseguente rischio etico:*
+*Sull'inadeguatezza dell'espressione "intelligenza artificiale" e il conseguente rischio etico:*
 
 - Ivo De Gennaro, *Nullo animi labore. Una nota sull’uso responsabile dell’intelligenza artificiale.*  
    [eudia 2026](https://www.eudia.org/saggio-nullo-animi-labore-una-nota-sulluso-responsabile-dellintelligenza-artificiale/)
